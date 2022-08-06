@@ -1,0 +1,43 @@
+.menu {
+  height: auto;
+}
+
+.content {
+  background-color: red;
+  height: 85vh;
+  margin: 2%;
+}
+
+.toolbar {
+  background-color: #202020;
+}
+
+.logo {
+  width: 200px !important;
+}
+
+.container {
+  background-color: white;
+}
+
+.loginButton {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.font {
+  font-weight: bold;
+}
+
+.title {
+  margin-left: 3%;
+}
+
+.drawer {
+  background-color: #202020;
+}
+
+.cardVersion {
+  height: fit-content;
+  margin: 5%;
+}
